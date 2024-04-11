@@ -1,0 +1,8 @@
+CREATE DATABASE UNIVERSITYMANAGEMENTSYSTEM;
+USE UNIVERSITYMANAGEMENTSYSTEM;
+
+CREATE TABLE login ( username varchar(30), password varchar(30));
+
+INSERT INTO login VALUES ('admin', 'jaihind');
+
+SELECT * FROM login;

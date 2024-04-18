@@ -23,3 +23,11 @@ public class JavaJDBC {
         }
     }
 }
+
+
+// JDBC STEPS  :
+// 1- Register the driver class
+// 2- Create connection
+// 3- Create statement
+// 4- Execute Query
+// 5- Close connection
